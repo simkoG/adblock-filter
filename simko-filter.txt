@@ -1,3 +1,12 @@
+[Adblock Plus 2.0]
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+! Homepage: https://github.com/simkoG/adblock-filter/
+! Licence: CC-BY, see http://creativecommons.org/licenses/by/4.0/
+! Title: simko-filter
+! Expires: 16 hours
+! Version: 20190811
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 ncore.cc##[class*="banner"]
 ncore.cc##[class*="ad-block"]
 ncore.cc###hessteg
