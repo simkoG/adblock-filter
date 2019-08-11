@@ -1,0 +1,6 @@
+ncore.cc##[class*="banner"]
+ncore.cc##[class*="ad-block"]
+ncore.cc###hessteg
+yts.lt##.nbox-bordered
+yts.lt##.aibox-bordered
+youtube.com##.ab4yt-dialog
