@@ -7,9 +7,9 @@
 ! Version: 20190811
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-ncore.cc##[class*="banner"]
-ncore.cc##[class*="ad-block"]
-ncore.cc###hessteg
+ncore.pro##[class*="banner"]
+ncore.pro##[class*="ad-block"]
+ncore.pro###hessteg
 yts.lt##.nbox-bordered
 yts.lt##.aibox-bordered
 youtube.com##.ab4yt-dialog
