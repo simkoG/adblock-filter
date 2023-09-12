@@ -4,7 +4,7 @@
 ! Licence: CC-BY, see http://creativecommons.org/licenses/by/4.0/
 ! Title: simko-filter
 ! Expires: 16 hours
-! Version: 20230703
+! Version: 20230912
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 ncore.pro##[class*="banner"]
