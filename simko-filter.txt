@@ -13,11 +13,11 @@ ncore.pro###hessteg
 ncore.pro##.infocsik:has(a[href*="premium"])
 ncore.pro##.torrent_lenyilo_tartalom > center > .banner
 ncore.pro###main_tartalom .banner
-ncore.pro###hessteg
 ncore.pro##.hessteg-ad-block.news_block_right
 ncore.pro###pager_top > .premium
 ncore.pro###pager_bottom > .premium
 ncore.pro##.banner
+ncore.pro##.news_block_right iframe[src*="likebox.php"]
 
 yts.lt##.nbox-bordered
 yts.lt##.aibox-bordered
