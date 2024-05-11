@@ -18,6 +18,7 @@ ncore.pro###pager_top > .premium
 ncore.pro###pager_bottom > .premium
 ncore.pro##.banner
 ncore.pro##.news_block_right iframe[src*="likebox.php"]
+ncore.pro###x-pop
 
 yts.lt##.nbox-bordered
 yts.lt##.aibox-bordered
